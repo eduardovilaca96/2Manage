@@ -1,13 +1,19 @@
-BD: ToManage
+2Manage Project Management WebApp
+
+![alt text](https://github.com/eduardovilaca96/2Manage/blob/master/Projeto Spring/demo/src/main/webapp/imagens/2M.png?raw=true)
+
+
+
+BD name: ToManage
 
 user:postgres
 password:T0Manag3pap
 importar ficheiro dump-ToManage
 
 IDE: Spring Tool Suite 4
-para mais configurações á base de dados alterar ficheiro DataSourceConfig (/src/main/java/com/example/demo/config)
+Change DataSourceConfig for database connection details (/src/main/java/com/example/demo/config)
 
-Requisitos:
-Servidor Apache Tomcat v8.5
-Servidor Postgres 14.2
+Requirements:
+-> Apache Tomcat v8.5
+-> Postgres 14.2
 		
