@@ -1,8 +1,6 @@
 2Manage Project Management WebApp
 
-![2Manage](https://github.com/eduardovilaca96/2Manage/blob/master/Projeto Spring/demo/src/main/webapp/imagens/2M.png?raw="true")
-
-
+<img src="https://github.com/eduardovilaca96/2Manage/blob/master/Projeto%20Spring/demo/src/main/webapp/imagens/2M.png" alt="2Manage"></img>
 
 BD name: ToManage
 
