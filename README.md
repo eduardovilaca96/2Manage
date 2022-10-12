@@ -3,6 +3,7 @@
 <img src="https://github.com/eduardovilaca96/2Manage/blob/master/Projeto%20Spring/demo/src/main/webapp/imagens/2M.png" alt="2Manage" style="width:450px"></img>
 <br><br>
 
+<h4>
 
 BD name: ToManage
 
@@ -17,3 +18,4 @@ Requirements:
 -> Apache Tomcat v8.5
 -> Postgres 14.2
 		
+</h4>
