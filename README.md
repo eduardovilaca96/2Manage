@@ -4,7 +4,7 @@
 <br><br>
 
 <h3>Configuration:</h3>
-<h4>
+
 
 BD Server Postgres 14.5
 BD name: ToManage
@@ -17,6 +17,6 @@ Requirements:
 -> Apache Tomcat v8.5 / v.9.0
 -> Postgres 14.5
 		
-</h4>
+
 
 
