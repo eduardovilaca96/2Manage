@@ -6,17 +6,17 @@
 <h3>Configuration:</h3>
 <h4>
 
+BD Server Postgres 14.5
 BD name: ToManage
-
 user:postgres
 password:T0Manag3pap
-importar ficheiro dump-ToManage
-
-IDE: Spring Tool Suite 4
-Change DataSourceConfig for database connection details (/src/main/java/com/example/demo/config)
+psql command :  psql -U postgres -d ToManage -a -f dump-ToManage-202207150714.sql
+To Change DataSourceConfig for database connection details (/src/main/java/com/example/demo/config)
 
 Requirements:
--> Apache Tomcat v8.5
--> Postgres 14.2
+-> Apache Tomcat v8.5 / v.9.0
+-> Postgres 14.5
 		
 </h4>
+
+
